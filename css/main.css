@@ -1,8 +1,9 @@
 .modal {
     display: none;
-    background-color: black;
+    position: fixed;
     width: 100vw;
     height: 100vh;
+    background-color: black;
 }
 
 .modal-content {
