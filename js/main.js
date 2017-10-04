@@ -1,5 +1,4 @@
 function clickMe() {
     alert("inclickme");
-    var modal_div = document.getElementById("modal");
-    modal.style.display = "block";
+    modal_div = document.getElementById("modal").style.display = "block";
 }
