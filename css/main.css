@@ -4,3 +4,10 @@
     width: 100vw;
     height: 100vh;
 }
+
+.modal-content {
+    width: 30em;
+    height 20em;
+    border: 2px solid black;
+    margin: 3em auto;
+}
