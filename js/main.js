@@ -1,4 +1,4 @@
 function clickMe() {
-    //alert("inclickme");
-    document.getElementById("modal").style.display = "block";
+    var mod_div = document.getElementById("modal");
+    mod_div.style.display = "block";
 }
