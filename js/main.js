@@ -1,4 +1,4 @@
 function clickMe() {
-    var modal = decument.getElementById("modal");
+    var modal = document.getElementById("modal");
     modal.style.display = "block";
 }
